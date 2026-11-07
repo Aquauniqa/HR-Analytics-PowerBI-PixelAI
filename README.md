@@ -45,11 +45,11 @@ To support HR decision-making by analyzing workforce dynamics, employment levels
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](screenshots/dashboard.png)
+![HR Analytics Dashboard](dashboard.png)
 
 ## Data Model
 
-![Power BI Data Model](screenshots/data_model.png)
+![Power BI Data Model](data_model.png)
 
 ## Acknowledgements
 
