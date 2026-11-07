@@ -55,7 +55,7 @@ To support HR decision-making by analyzing workforce dynamics, employment levels
 
 Explore the interactive Power BI dashboard:
 
-[**View Live Power BI Report**]((https://app.powerbi.com/view?r=eyJrIjoiNDYzZWQwODMtODg1Yy00MjdjLWFiMmQtNGM5NGZkNDZiN2I3IiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9&embedImagePlaceholder=true))
+[**View Live Power BI Report**](https://app.powerbi.com/view?r=eyJrIjoiNDYzZWQwODMtODg1Yy00MjdjLWFiMmQtNGM5NGZkNDZiN2I3IiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9&embedImagePlaceholder=true)
 
 ## Acknowledgements
 
