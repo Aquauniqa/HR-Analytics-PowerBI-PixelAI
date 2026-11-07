@@ -51,6 +51,12 @@ To support HR decision-making by analyzing workforce dynamics, employment levels
 
 ![Power BI Data Model](data_model.png)
 
+## Live Interactive Dashboard
+
+Explore the interactive Power BI dashboard:
+
+[**View Live Power BI Report**]((https://app.powerbi.com/view?r=eyJrIjoiNDYzZWQwODMtODg1Yy00MjdjLWFiMmQtNGM5NGZkNDZiN2I3IiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9&embedImagePlaceholder=true))
+
 ## Acknowledgements
-<iframe title="Raport_HR" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNDYzZWQwODMtODg1Yy00MjdjLWFiMmQtNGM5NGZkNDZiN2I3IiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
+
 Project completed as part of **#WyzwaniePowerBI** by Bartosz Czapiewski / SkuteczneRaporty.pl.
